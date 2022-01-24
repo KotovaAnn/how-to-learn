@@ -63,7 +63,7 @@
   bottom: 0;
   height: 568px;
   width: 568px;
-  background: #2f80ed; 
+  background: #2f80ed;
   z-index: -2;
 }
 
@@ -185,7 +185,7 @@
   width: 100%;
   position: relative;
   height: 890px;
-  background: #f2f2f2 URL(../images/feynman.png);
+  background: #f2f2f2 url(../images/feynman.png);
   background-size: 867px 637px;
   background-repeat: no-repeat;
   background-position: left bottom;
